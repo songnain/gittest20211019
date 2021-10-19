@@ -7,11 +7,13 @@
 <body>
 <h1>
 
-	Hello world!  github update
+	Hello world!  update2 github update
 
 </h1>
 
-	<h2>github update2</h2>
+	<h2>eclipse update</h2>
+	<h2>github update</h2>
+
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
